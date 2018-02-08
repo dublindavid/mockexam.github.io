@@ -4,12 +4,6 @@
 <title>Coding at St.Josephs Rush</title>
 </head>
 <body>
-.header{width:100%;
-            position:fixed;
-            top:0px;
-            background: #00FFFF;
-            font-size: 30px;
-      text-align: center;}
 
 <h1>First time coding</h1>
 <p>3 years ago our first years were the first class to do coding.

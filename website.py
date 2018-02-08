@@ -11,7 +11,7 @@
 It was a great year for all.Today we still teach coding for students that want to do it. We even have after school coding classes.
 Big companies like Google an Intel let our students in for a school trip.
 <img src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_videoposter_006.jpg"  style="width:400px;height:400px;">.
-
+We are going to continue to teach coding as long as we can.Not that many students can have this in their livess.
 
 </body>
 </html>
